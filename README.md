@@ -1,7 +1,7 @@
 # sql-challenge
 # Data Modeling
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBD
-note: dept_manager and dept_emp tables have 2 primary keys listed (labeled as that b/c they were on other tables as PK, but can be both taken off as PK)
+- note: dept_manager and dept_emp tables have 2 primary keys listed (labeled as that b/c they were on other tables as PK, but can be both taken off as PK)
 # Data Engineering
 1. Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
 - Remember to specify the data types, primary keys, foreign keys, and other constraints.
